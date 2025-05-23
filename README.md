@@ -17,3 +17,4 @@ Contiene una única tabla de trabajo:
 - Generación de reportes consistentes para uso interno.
 - Consultas personalizadas para informes según criterios específicos (por ejemplo, por dominio de correo, por iniciales, etc.).
 
+
